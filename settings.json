@@ -1,0 +1,6 @@
+{
+  "dbFolder": "data",
+  "dbName": "database.db",
+  "logName": "log.dat",
+  "writeOnDbInterval": 5
+}
